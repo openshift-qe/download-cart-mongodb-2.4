@@ -62,3 +62,4 @@ Endpoints:
   Public-Port-Name: DB_PROXY_PORT
   Protocols:
   - mongodb
+Source-Url: https://github.com/openshift-qe/download-cart-mongodb-2.4.git
