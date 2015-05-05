@@ -16,7 +16,7 @@ Compatible-Versions:
 - 0.2.13
 - 0.2.14
 - 0.2.15
-Cartridge-Vendor: openshift-qe
+Cartridge-Vendor: openshiftqe
 License: ASL 2.0
 Vendor: 10gen
 Categories:
